@@ -1,0 +1,23 @@
+#container
+{
+    display: flex;
+}
+
+#form-container-for-navbar
+{
+    display:flex;
+    flex-Direction:column;
+    height:100vh;
+    width:50px;
+    background-color:#943d02;
+    align-Content:center;
+    align-Items:center;
+   
+}
+
+#navbar-button
+{
+    color:white;
+    margin-Top:10px;
+    font-Weight:Bold;
+}
